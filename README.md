@@ -1,4 +1,4 @@
-# Slack Community (http://slack.broadleyspeaking.co.nz)
+# BROADLEY/SPEAKING Community (http://slack.broadleyspeaking.co.nz)
 
 ## The Vision
 
@@ -33,6 +33,14 @@ These are the following activities we expect at least once a week from you:
 
 The ultimate question we want you to be able to keep relevant is asking yourself:
  `"What's the last nice thing you've done for someone in this community?"`
+
+## Don't want to participate?
+
+For this community to have the quality that meets the vision and mission. To do this, it means sometimes we are going to ask people to join, and people to leave. We understand life changes, and so does focus. There is a commitment coming to this community, and we believe you get back what you put in.
+
+If we see a lack of participation, we reserve the right to follow the below process:
+* If you haven't contributed for two weeks in a row, we will get in touch making sure you're okay and if there's anything we can help with. Life changes happen.
+* After a further week of non contribution (three weeks in total) and you are still non-responsive to the community, we will then establish this is a temporary thing. We will ask you to leave the community.
 
 # Code of Conduct
 
