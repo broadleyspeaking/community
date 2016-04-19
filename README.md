@@ -36,11 +36,15 @@ The ultimate question we want you to be able to keep relevant is asking yourself
 
 ## Don't want to participate?
 
-For this community to have the quality that meets the vision and mission. To do this, it means sometimes we are going to ask people to join, and people to leave. We understand life changes, and so does focus. There is a commitment coming to this community, and we believe you get back what you put in.
+For this community to have the quality that meets the vision and mission, it means sometimes we are going to ask people to join, and people to leave. 
+
+We understand life changes happen, and so does your focus. There is a commitment coming to this community, and we believe you get back what you put in.
 
 If we see a lack of participation, we reserve the right to follow the below process:
 * If you haven't contributed for two weeks in a row, we will get in touch making sure you're okay and if there's anything we can help with. Life changes happen.
-* After a further week of non contribution (three weeks in total) and you are still non-responsive to the community, we will then establish this is a temporary thing. We will ask you to leave the community.
+* After a further week of non contribution (three weeks in total) and you are still non-responsive to the community, we will ask you to leave the community.
+
+You are welcome to re-join when you have time to focus and pariticpate with the community. Don't think of this as a permanent thing.
 
 # Code of Conduct
 
